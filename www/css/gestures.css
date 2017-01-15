@@ -26,6 +26,7 @@ button{
   margin-top: 10px;
   min-height: 300px;
   display: block;
+  font-size: 7em;
 }
 
 #info{
@@ -92,8 +93,8 @@ button{
   }
 }
 
-@-webkit-keyframes rotate { 
-  100% { 
+@-webkit-keyframes rotate {
+  100% {
     -webkit-transform: rotate(360deg);
-  } 
+  }
 }
